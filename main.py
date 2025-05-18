@@ -1,9 +1,7 @@
 from src import create_app
-from db import create_db
 
 
 if __name__ == '__main__':
-    db = create_db()
 
     # Create and run Flask-Restful
     app = create_app()
