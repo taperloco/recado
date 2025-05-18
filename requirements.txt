@@ -3,4 +3,4 @@ pyjwt
 bcrypt
 pyopenssl
 python-dotenv
-flask-restfull
+flask-restful
