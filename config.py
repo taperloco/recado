@@ -1,0 +1,5 @@
+mongo_URI = "mongodb://localhost:27017"
+db_name = "Recado_Database"
+users_collection = "Users_collection"
+recados_collection = "Recados_collection"
+chats_collection = "Chats_collection"
