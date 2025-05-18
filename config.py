@@ -1,4 +1,4 @@
-mongo_URI = "mongodb://localhost:27017"
+mongo_URI = "mongodb+srv://darvilek:rP4BqX60cGHfgSSn@cluster0.pmmaiee.mongodb.net/"
 db_name = "Recado_Database"
 users_collection = "Users_collection"
 recados_collection = "Recados_collection"
