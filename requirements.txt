@@ -4,4 +4,3 @@ bcrypt
 pyopenssl
 python-dotenv
 flask-restful
-flask_cors
