@@ -4,3 +4,5 @@ bcrypt
 pyopenssl
 python-dotenv
 flask-restful
+flask-cors
+gunicorn
