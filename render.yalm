@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: flask-app
+    env: python
+    plan: starter  # "starter" is required if you want shell access
+    buildCommand: ""
+    startCommand: gunicorn main:app
+    envVars:
+      - key: FLASK_ENV
+        value: production
